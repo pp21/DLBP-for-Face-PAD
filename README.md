@@ -1,4 +1,4 @@
-# Directional Local Binary Pattern (DLBP) for Face Presentation Attack Detection
+# Directional local binary pattern (DLBP) for face presentation attack detection (aka face anti-spoofing or spoofing detection)
 
 ## Qin L, Zhang L B, Peng F, et al. Content-Independent Face Presentation Attack Detection with Directional Local Binary Pattern[C]//Chinese Conference on Biometric Recognition. Springer, Cham, 2017: 118-126. doi: https://doi.org/10.1007/978-3-319-69923-3_13
 
