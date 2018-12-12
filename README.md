@@ -2,6 +2,8 @@
 
 ## Qin L, Zhang L B, Peng F, et al. Content-Independent Face Presentation Attack Detection with Directional Local Binary Pattern[C]//Chinese Conference on Biometric Recognition (CCBR). Springer, Cham, 2017: 118-126. doi: https://doi.org/10.1007/978-3-319-69923-3_13
 
+## Paper online: https://link.springer.com/chapter/10.1007/978-3-319-69923-3_13
+
 ----------------------------------------------------------
 ---Implementation of the directional local binary pattern (DLBP) in face presentation attack detection (PAD)---
 ----------------------------------------------------------
