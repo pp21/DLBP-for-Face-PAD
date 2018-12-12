@@ -12,6 +12,7 @@ Table of Contents
 - Introduction
 - Usage
 - Additional information
+- Contact
 
 
 Introduction
@@ -64,8 +65,10 @@ The implementation of DLBP is licensed to Fei Peng, Le-Bing Zhang, Le Qin, and M
 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 College of Computer and Communication Engineering, Changsha University of Science and Technology, Changsha, China.
 
+Contact
+============
 
-For any question, please contact Fei Peng <eepengf@gmail.com> and Le Qin <qinle@hnu.edu.cn>.
+For any question, please contact Prof. Fei Peng <eepengf@gmail.com> and Le Qin <qinle@hnu.edu.cn>.
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
