@@ -63,15 +63,15 @@ The implementation of LBP is licensed to Timo Ojala, Matti Pietikainen, and Topi
     "Multiresolution gray-scale and rotation invariant texture classification with local binary patterns,"
     IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971–987, Jul. 2002.
 
-The implementation of DLBP is licensed to Fei Peng, Le-Bing Zhang, Le Qin, and Min Long, 
+The implementation of DLBP is licensed to Peng Fei, Zhang Le-Bing, Qin Le, and Long Min, 
 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 College of Computer and Communication Engineering, Changsha University of Science and Technology, Changsha, China.
 
 Contact
 ============
 
-For any question, please contact Prof. Fei Peng <eepengf@gmail.com> or Le Qin <qinle@hnu.edu.cn>.
+For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
-Please cited as: Qin L, Zhang L B, Peng F, et al. Content-Independent Face Presentation Attack Detection with Directional Local Binary Pattern[C]//Chinese Conference on Biometric Recognition (CCBR). Springer, Cham, 2017: 118-126. doi: https://doi.org/10.1007/978-3-319-69923-3_13
+Please cite as: Qin L, Zhang L B, Peng F, et al. Content-Independent Face Presentation Attack Detection with Directional Local Binary Pattern[C]//Chinese Conference on Biometric Recognition (CCBR). Springer, Cham, 2017: 118-126. doi: https://doi.org/10.1007/978-3-319-69923-3_13
