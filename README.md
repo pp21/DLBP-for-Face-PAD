@@ -70,8 +70,8 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
+For any question, please contact Qin Le <qinle@hnu.edu.cn>.
 
-Please kindly cite our paper as follow when you use it. Thank you.
+Please kindly cite our paper as follow if you use it.
 
 Please cite as: Qin L, Zhang L B, Peng F, et al. Content-Independent Face Presentation Attack Detection with Directional Local Binary Pattern[C]//Chinese Conference on Biometric Recognition (CCBR). Springer, Cham, 2017: 118-126. doi: https://doi.org/10.1007/978-3-319-69923-3_13
