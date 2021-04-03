@@ -40,15 +40,9 @@ Additional information
 ======================
 
 The implementation of directional difference image is licensed to Zhongwei He, Wei Lu, Wei Sun, and Jiwu Huang,
-[1] Z. He, W. Lu., W. Sun, J. Huang, 
-    "Digital image splicing detection based on Markov features in DCT and DWT domain," 
-    Pattern Recognition, 45(12), 4292-4299 (2012)
-T. Pevny, P. Bas, J. Fridrich,
-[2] T. Pevny, P. Bas, J. Fridrich, 
-    "Steganalysis by subtractive pixel adjacency matrix. 
-    IEEE Trans. Inf. Forensics Secur., 5(2), 215-224 (2010)
+
+[1] Z. He, W. Lu., W. Sun, J. Huang, "Digital image splicing detection based on Markov features in DCT and DWT domain," Pattern Recognition, 45(12), 4292-4299 (2012)
+    
+[2] T. Pevny, P. Bas, J. Fridrich, "Steganalysis by subtractive pixel adjacency matrix. IEEE Trans. Inf. Forensics Secur., 5(2), 215-224 (2010)
  
-The implementation of LBP is licensed to Timo Ojala, Matti Pietikainen, and Topi Maenpaa,
-[3] T. Ojala, M. Pietikainen, and T. Maenpaa,
-    "Multiresolution gray-scale and rotation invariant texture classification with local binary patterns,"
-    IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971–987, Jul. 2002.
+The implementation of LBP is licensed to Timo Ojala, Matti Pietikainen, and Topi Maenpaa, T. Ojala, M. Pietikainen, and T. Maenpaa, "Multiresolution gray-scale and rotation invariant texture classification with local binary patterns," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971–987, Jul. 2002.
